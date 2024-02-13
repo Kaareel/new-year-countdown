@@ -3,7 +3,10 @@
 ## Welcome to the New Year Countdown App proyect
 This React application, named New Year Countdown, serves the purpose of counting down the days remaining until the next year. Users can easily track the time left until the arrival of the new year with a simple and intuitive interface.
 
-Features
+![Captura de pantalla 2024-02-12 212028](https://github.com/Kaareel/new-year-countdown/assets/105023448/ceb44e24-dfbb-4fe8-af15-d5d9c3ccdd96)
+
+
+## Features
 Countdown Timer: Displays the number of days, hours, minutes, and seconds remaining until the next year.
 Real-time Updates: The countdown timer updates automatically every second, ensuring accurate and precise timing.
 Interactive Interface: Users can easily navigate through the app and view the countdown timer without any hassle.
