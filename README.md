@@ -40,10 +40,11 @@ Sleek Design: The app is designed with a clean and modern interface, enhancing t
 The countdown timer will automatically begin, showing the time remaining until the next year.
 
 ## Technologies Used
-React: JavaScript library for building user interfaces.
-HTML: Markup language for creating the structure of the web page.
-CSS: Styling language for designing the visual presentation of the application.
-Contributing
+1. React: JavaScript library for building user interfaces.
+2. HTML: Markup language for creating the structure of the web page.
+3. CSS: Styling language for designing the visual presentation of the application.
+
+## Contributing
 Contributions are welcome! If you find any bugs or have suggestions for improvements, please open an issue or submit a pull request on GitHub.
 
 ## License
