@@ -1,4 +1,6 @@
-New Year Countdown App
+# New Year Countdown App
+
+## Welcome to the New Year Countdown App proyect
 This React application, named New Year Countdown, serves the purpose of counting down the days remaining until the next year. Users can easily track the time left until the arrival of the new year with a simple and intuitive interface.
 
 Features
