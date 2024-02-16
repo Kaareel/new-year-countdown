@@ -11,7 +11,7 @@ To get started with the Calculator App, follow these steps:
 
 1. **Clone the repository:**
     ```bash
-    git clone https://github.com/your-username/new-year-countdown.git
+    git clone https://github.com/kaareel/new-year-countdown.git
     ```
 2. **Change into the project directory:**
     ```bash
