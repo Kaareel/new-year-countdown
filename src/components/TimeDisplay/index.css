@@ -1,0 +1,13 @@
+.TimeDisplay__text{
+    font-size: 80px;
+    line-height: 1;
+    margin: 12px;
+}
+.TimeDisplay__value{
+    width: 150px;
+    margin: 20px 10px;
+    text-align: center;
+}
+.TimeDisplay__value span {
+    font-size: 21px;
+}
